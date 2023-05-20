@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/karangithub123/UI-theme-site/static/css/main.86a0e2fb.css",
+    "main.js": "/karangithub123/UI-theme-site/static/js/main.085ee027.js",
+    "static/media/1.png": "/karangithub123/UI-theme-site/static/media/1.9741230b4b4fe8213efa.png",
+    "static/media/4.jpg": "/karangithub123/UI-theme-site/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/karangithub123/UI-theme-site/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.webp": "/karangithub123/UI-theme-site/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/karangithub123/UI-theme-site/index.html",
+    "main.86a0e2fb.css.map": "/karangithub123/UI-theme-site/static/css/main.86a0e2fb.css.map",
+    "main.085ee027.js.map": "/karangithub123/UI-theme-site/static/js/main.085ee027.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a0e2fb.css",
+    "static/js/main.085ee027.js"
+  ]
+}
