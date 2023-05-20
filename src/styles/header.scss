@@ -1,0 +1,47 @@
+@import "colors";
+
+nav {
+    width: 100%;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    background-color:rgb(219, 200, 227);
+    top: 0%;
+    z-index: 10;
+
+
+
+    >h1 {
+
+        text-transform: uppercase;
+
+        font: oblique;
+
+       
+
+    }
+
+    > main {
+         
+        width: 70%;
+        display: flex;
+        justify-content: flex-end;
+
+
+        > a {
+            color: $dark;
+            margin: 1rem;
+            font-size: medium;
+
+
+            &:hover{
+
+                color: $third;
+            }
+
+        }
+    }
+
+}
